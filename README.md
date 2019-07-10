@@ -558,14 +558,3 @@ scan: function() {
     }
   })
 },
-```
-## 后台数据
-关于后台数据的来源，我使用的是用 [easymock](https://www.easy-mock.com/) 构建模拟数据。easymock 对于暂时只关注前台界面的程序员来说是真的超级好用。之前写过一篇文章[使用Easy Mock构建模拟数据](https://segmentfault.com/a/1190000011996034)欢迎移步查看。
-## 写在最后
-写微信小程序最重要的可能就是查看文档了。微信给开发人员提供了很详细的各种组件和API的介绍和使用方法。
-
-附上[微信小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/component/)
-
-最后奉上GitHub源码地址：https://github.com/TeanLee/hema
-
-如果觉得还不错的话，请给个start鼓励一下哟~
